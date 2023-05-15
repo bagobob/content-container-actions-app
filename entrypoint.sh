@@ -1,8 +1,5 @@
 #!/bin/sh -l
 
-# copy the file to the working directory
-COPY entrypoint.sh .
-
 # make the file executable
 chmod +x entrypoint.sh
 
