@@ -1,3 +1,5 @@
+#!/bin/sh -l
+
 # copy the file to the working directory
 COPY entrypoint.sh .
 
